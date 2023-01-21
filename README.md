@@ -1,4 +1,4 @@
-Uma proposta de unificação e padronização de todos os Ministérios Públicos estaduais do País.
+Uma proposta de unificação e padronização de todos as Defensorias Públicas estaduais do País.
 
 # Padronização:
 - logotipo nacional
